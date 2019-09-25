@@ -1,0 +1,15 @@
+进入分支：
+git checkout master
+上传文件到master：
+#1 git add .
+#2 git status
+#3 git commit -m'解释说明'
+#4 git push origin master
+
+
+拉取文件
+git pull origin 分支名
+更新到写的分支上
+git push origin 分支名
+
+
